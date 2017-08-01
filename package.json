@@ -1,0 +1,23 @@
+{
+  "name": "babon",
+  "version": "0.0.5",
+  "description": "CSS , Minimalist , JS ,",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffadilaputra/babon.git"
+  },
+  "keywords": [
+    "CSS",
+    "Minimalist"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffadilaputra/babon/issues"
+  },
+  "homepage": "https://github.com/ffadilaputra/babon#readme"
+}
